@@ -95,13 +95,19 @@
       },
       "url": "https://packages.unity.com"
     },
+
     "com.unity.settings-manager": {
       "version": "1.0.3",
       "depth": 1,
+
+    "com.unity.terrain-tools": {
+      "version": "3.0.2-preview.3",
+      "depth": 0,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+
     "com.unity.shadergraph": {
       "version": "10.9.0",
       "depth": 1,
